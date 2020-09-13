@@ -23,7 +23,7 @@
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Manhunt2WeaponSpawner</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Manhunt2.DebugMenu</ProjectName>
+    <ProjectName>Manhunt2.Keyboard</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -162,6 +162,101 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
       </PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="mh2-re\CAnimBlendAssociation.cpp" />
+    <ClCompile Include="mh2-re\CBloodDropManager.cpp" />
+    <ClCompile Include="mh2-re\CCamera.cpp" />
+    <ClCompile Include="mh2-re\CCharacter.cpp" />
+    <ClCompile Include="mh2-re\CClumpDict.cpp" />
+    <ClCompile Include="mh2-re\CCollectable.cpp" />
+    <ClCompile Include="mh2-re\CCreationManager.cpp" />
+    <ClCompile Include="mh2-re\CEntity.cpp" />
+    <ClCompile Include="mh2-re\CEntityManager.cpp" />
+    <ClCompile Include="mh2-re\CGameTime.cpp" />
+    <ClCompile Include="mh2-re\CharacterDamageManager.cpp" />
+    <ClCompile Include="mh2-re\CHelper.cpp" />
+    <ClCompile Include="mh2-re\CImpactDamageMap.cpp" />
+    <ClCompile Include="mh2-re\CInput.cpp" />
+    <ClCompile Include="mh2-re\CMatrix.cpp" />
+    <ClCompile Include="mh2-re\CMemory.cpp" />
+    <ClCompile Include="mh2-re\CMouseExecution.cpp" />
+    <ClCompile Include="mh2-re\CNeoCommand.cpp" />
+    <ClCompile Include="mh2-re\CNeoFlexText.cpp" />
+    <ClCompile Include="mh2-re\CNeoHud.cpp" />
+    <ClCompile Include="mh2-re\CNeoItem.cpp" />
+    <ClCompile Include="mh2-re\CNeoKeyBinding.cpp" />
+    <ClCompile Include="mh2-re\CNeoLinkToPage.cpp" />
+    <ClCompile Include="mh2-re\CNeoPage.cpp" />
+    <ClCompile Include="mh2-re\CNeoPicture.cpp" />
+    <ClCompile Include="mh2-re\CNeoSingleListBox.cpp" />
+    <ClCompile Include="mh2-re\CNeoSlider.cpp" />
+    <ClCompile Include="mh2-re\CNeoSwitch.cpp" />
+    <ClCompile Include="mh2-re\CNeoText.cpp" />
+    <ClCompile Include="mh2-re\CPed.cpp" />
+    <ClCompile Include="mh2-re\CPedBodyAnimFSM.cpp" />
+    <ClCompile Include="mh2-re\CPlayer.cpp" />
+    <ClCompile Include="mh2-re\CScriptVM.cpp" />
+    <ClCompile Include="mh2-re\CText.cpp" />
+    <ClCompile Include="mh2-re\CWiiExecutionMap.cpp" />
+    <ClCompile Include="mh2-re\FxManager_c.cpp" />
+    <ClCompile Include="mh2-re\FxSystem_c.cpp" />
+    <ClCompile Include="mh2-re\LayeredPage.cpp" />
+    <ClCompile Include="mh2-re\modAI_Interface.cpp" />
+    <ClCompile Include="mh2-re\MyTrans.cpp" />
+    <ClCompile Include="mh2-re\NeoMenu.cpp" />
+    <ClCompile Include="mh2-re\Unsorted.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MemoryMgr.h" />
+    <ClInclude Include="mh2-re\AnimationNames.h" />
+    <ClInclude Include="mh2-re\CAnimBlendAssociation.h" />
+    <ClInclude Include="mh2-re\CBloodDropManager.h" />
+    <ClInclude Include="mh2-re\CCamera.h" />
+    <ClInclude Include="mh2-re\CCharacter.h" />
+    <ClInclude Include="mh2-re\CClumpDict.h" />
+    <ClInclude Include="mh2-re\CCollectable.h" />
+    <ClInclude Include="mh2-re\CCreationManager.h" />
+    <ClInclude Include="mh2-re\CDecalEntry.h" />
+    <ClInclude Include="mh2-re\CEntity.h" />
+    <ClInclude Include="mh2-re\CEntityManager.h" />
+    <ClInclude Include="mh2-re\CGameTime.h" />
+    <ClInclude Include="mh2-re\CharacterDamageManager.h" />
+    <ClInclude Include="mh2-re\CHelper.h" />
+    <ClInclude Include="mh2-re\CImpactDamageMap.h" />
+    <ClInclude Include="mh2-re\CInput.h" />
+    <ClInclude Include="mh2-re\CMatrix.h" />
+    <ClInclude Include="mh2-re\CMemory.h" />
+    <ClInclude Include="mh2-re\CMouseExecution.h" />
+    <ClInclude Include="mh2-re\CNeoCommand.h" />
+    <ClInclude Include="mh2-re\CNeoFlexText.h" />
+    <ClInclude Include="mh2-re\CNeoHud.h" />
+    <ClInclude Include="mh2-re\CNeoItem.h" />
+    <ClInclude Include="mh2-re\CNeoKeyBinding.h" />
+    <ClInclude Include="mh2-re\CNeoLinkToPage.h" />
+    <ClInclude Include="mh2-re\CNeoPage.h" />
+    <ClInclude Include="mh2-re\CNeoPicture.h" />
+    <ClInclude Include="mh2-re\CNeoSingleListBox.h" />
+    <ClInclude Include="mh2-re\CNeoSlider.h" />
+    <ClInclude Include="mh2-re\CNeoSwitch.h" />
+    <ClInclude Include="mh2-re\CNeoText.h" />
+    <ClInclude Include="mh2-re\CPed.h" />
+    <ClInclude Include="mh2-re\CPedBodyAnimFSM.h" />
+    <ClInclude Include="mh2-re\CPlayer.h" />
+    <ClInclude Include="mh2-re\CScriptVM.h" />
+    <ClInclude Include="mh2-re\CText.h" />
+    <ClInclude Include="mh2-re\CWeapon.h" />
+    <ClInclude Include="mh2-re\CWiiExecutionMap.h" />
+    <ClInclude Include="mh2-re\FxManager_c.h" />
+    <ClInclude Include="mh2-re\FxSystem_c.h" />
+    <ClInclude Include="mh2-re\g_mhGlobalData.h" />
+    <ClInclude Include="mh2-re\Header.h" />
+    <ClInclude Include="mh2-re\Keyboard.h" />
+    <ClInclude Include="mh2-re\LayeredPage.h" />
+    <ClInclude Include="mh2-re\MemoryMgr.h" />
+    <ClInclude Include="mh2-re\MHKeyboard.h" />
+    <ClInclude Include="mh2-re\modAI_Interface.h" />
+    <ClInclude Include="mh2-re\MyTrans.h" />
+    <ClInclude Include="mh2-re\NeoMenu.h" />
+    <ClInclude Include="mh2-re\Vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />
