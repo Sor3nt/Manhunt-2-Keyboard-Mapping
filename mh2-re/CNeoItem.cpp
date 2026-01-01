@@ -54,7 +54,6 @@ void CNeoItem::setBackgroundTransparent(bool status)
 void CNeoItem::test()
 {
 	CString cText = CHelper::GetCString("hmm");
-	printf("hier ptr %p ", this);
 	int tmp = (int)this;
 	tmp += 0x7C;
 

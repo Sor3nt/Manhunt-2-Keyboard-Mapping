@@ -1,0 +1,57 @@
+﻿  dllmain.cpp
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\mh2-re\MyTrans.h(17,3): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(906): warning C4405: 'ret': identifier is reserved word
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1208,111): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1254,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1255,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1256,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1259,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1260,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1261,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1262,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1263,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1264,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1265,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1266,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1267,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1268,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1269,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1270,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1271,92): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1272,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1274,116): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1275,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1291,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1292,134): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1293,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1296,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1297,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1298,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1299,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1300,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1301,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1302,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1303,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1304,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1305,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1306,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1307,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1308,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1309,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1310,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1311,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1312,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1313,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1314,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1316,116): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\dllmain.cpp(1317,85): warning C4305: 'argument': truncation from 'double' to 'float'
+  CHelper.cpp
+C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\mh2-re\CHelper.cpp(41,11): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\Release\Manhunt2.Keyboard.lib and object C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\Release\Manhunt2.Keyboard.exp
+  Generating code
+  22 of 895 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Manhunt2.DebugMenu.vcxproj -> C:\Users\Hellwire\Desktop\Nostalgia Modpack 1.6\Source Code - Copy\Manhunt-2-Keyboard-Mapping-1.0\Release\Manhunt2.Keyboard.asi

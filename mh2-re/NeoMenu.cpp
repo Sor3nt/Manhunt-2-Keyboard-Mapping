@@ -9,13 +9,10 @@ LayeredPage* NeoMenu::findPageByName(char *name)
 {
 	int instance = (int)NeoMenu::getInstance();
 	int count = *(int*)(instance + (60 * 4));
-	printf("pages: %i", count);
 	for (int i = 0; i < count; i++) {
 		LayeredPage* page = (LayeredPage*)(instance + ((i * 4))+ (10*4) );
 
 		if (strcmp(page->getName(), name) == 0) return page;
-		printf(" name: %s ", page->getName());
-
 
 	}
 //	LayeredPage* page = (LayeredPage*)(instance + (60 * 4));
